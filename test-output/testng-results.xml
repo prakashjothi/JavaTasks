@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="124" started-at="2021-09-22T00:53:41Z" finished-at="2021-09-22T00:53:41Z">
+  <suite name="Default suite" duration-ms="95" started-at="2021-09-22T23:48:10Z" finished-at="2021-09-22T23:48:10Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="124" started-at="2021-09-22T00:53:41Z" finished-at="2021-09-22T00:53:41Z">
-      <class name="org.basicclass.BasicClass">
-        <test-method status="PASS" signature="employee()[pri:0, instance:org.basicclass.BasicClass@56f4468b]" name="employee" duration-ms="31" started-at="2021-09-22T00:53:41Z" finished-at="2021-09-22T00:53:41Z">
+    <test name="Default test" duration-ms="95" started-at="2021-09-22T23:48:10Z" finished-at="2021-09-22T23:48:10Z">
+      <class name="org.inheritanceclass.InheritanceTest">
+        <test-method status="PASS" signature="callLanguage()[pri:0, instance:org.inheritanceclass.InheritanceTest@643b1d11]" name="callLanguage" duration-ms="25" started-at="2021-09-22T23:48:10Z" finished-at="2021-09-22T23:48:10Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- employee -->
-        <test-method status="PASS" signature="vehicles()[pri:0, instance:org.basicclass.BasicClass@56f4468b]" name="vehicles" duration-ms="18" started-at="2021-09-22T00:53:41Z" finished-at="2021-09-22T00:53:41Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- vehicles -->
-      </class> <!-- org.basicclass.BasicClass -->
+        </test-method> <!-- callLanguage -->
+      </class> <!-- org.inheritanceclass.InheritanceTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
