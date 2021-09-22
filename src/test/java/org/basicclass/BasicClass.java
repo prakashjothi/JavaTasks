@@ -21,8 +21,17 @@ public class BasicClass {
 		System.out.println(ed.getEmpPhone());
 		System.out.println(ed.getEmpAddress());
 		System.out.println(ed.getEmpEmail());
+		System.out.println();
 		
 		
+	}
+	
+	@Test
+	private void vehicles() {
+		
+		VehicleNecessary vn = new VehicleNecessary();
+		vn.allVehicles();
+
 	}
 	
 	
