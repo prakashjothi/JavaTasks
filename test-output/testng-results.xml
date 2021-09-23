@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="95" started-at="2021-09-22T23:48:10Z" finished-at="2021-09-22T23:48:10Z">
+  <suite name="Default suite" duration-ms="90" started-at="2021-09-23T23:47:17Z" finished-at="2021-09-23T23:47:17Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="95" started-at="2021-09-22T23:48:10Z" finished-at="2021-09-22T23:48:10Z">
-      <class name="org.inheritanceclass.InheritanceTest">
-        <test-method status="PASS" signature="callLanguage()[pri:0, instance:org.inheritanceclass.InheritanceTest@643b1d11]" name="callLanguage" duration-ms="25" started-at="2021-09-22T23:48:10Z" finished-at="2021-09-22T23:48:10Z">
+    <test name="Default test" duration-ms="90" started-at="2021-09-23T23:47:17Z" finished-at="2021-09-23T23:47:17Z">
+      <class name="org.collections.CollectionsTest">
+        <test-method status="PASS" signature="collectionsPractice()[pri:0, instance:org.collections.CollectionsTest@56f4468b]" name="collectionsPractice" duration-ms="16" started-at="2021-09-23T23:47:17Z" finished-at="2021-09-23T23:47:17Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- callLanguage -->
-      </class> <!-- org.inheritanceclass.InheritanceTest -->
+        </test-method> <!-- collectionsPractice -->
+      </class> <!-- org.collections.CollectionsTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
